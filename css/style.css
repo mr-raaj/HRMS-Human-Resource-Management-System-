@@ -1,0 +1,101 @@
+body
+{
+    font-family: "Times New Roman";
+}
+h1
+{
+    font-family: "Times New Roman";
+}
+h2
+{
+    font-family: "Times New Roman";
+}
+h3
+{
+    font-family: "Times New Roman";
+}
+h4
+{
+    font-family: "Times New Roman";
+}
+h5
+{
+    font-family: "Times New Roman";
+}
+h6
+{
+    font-family: "Times New Roman";
+}
+p
+{
+    font-family: "Times New Roman";
+}
+div
+{
+    font-family: "Times New Roman";
+}
+.raj
+{
+    min-height: 50px;
+    background-color: black;
+    
+}
+.babu
+{
+    min-height: 50px;
+    background-color: black;
+}
+.babu1
+{
+    min-height: 50px;
+    background-color: black;
+}
+.babu1
+{
+    min-height: 50px;
+    background-color: black;
+}
+.logo
+{
+    min-height:100px;
+    background-image: url('../images/about.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header1{
+    min-height: 80px;
+    background-color: #1b6d85;
+}
+.sitetitle{
+    min-height: 80px;
+    background: #1b6d85;
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    padding: 1%;
+    text-shadow: 2px 2px 5px black;
+    
+}
+
+ .slider
+    {
+    min-height: 370px;
+}
+.footer
+{
+ min-height: 150px;
+ color:white;
+ text-align: center;
+ background-color:#1b6d85;
+ font-size:14px;
+}
+
+.lfooter
+{
+    min-height: 50px;
+    background: black;
+    color:white;
+    text-align: center;
+    padding-top: 1%;
+}
+
